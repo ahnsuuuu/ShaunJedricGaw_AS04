@@ -1,0 +1,813 @@
+[Info | 6:22:26 PM] [Medal Log Init] 3.829.0.0 - 5/5/2024 6:22:26 PM
+
+[Info | 6:22:27 PM] Honeycomb init successfully
+[Info | 6:22:27 PM] Available electron port not found, set port to default 10603
+[Info | 6:22:27 PM] Server: RESTService/1.0.0.0
+[Info | 6:22:27 PM] CLR: 4.0.30319.42000
+[Info | 6:22:27 PM] Server running at http://127.0.0.1:10604/
+[Info | 6:22:27 PM] Current DPI awareness: 0
+[Info | 6:22:27 PM] Change DPI awareness to PROCESS_PER_MONITOR_DPI_AWARE. result=0
+[Info | 6:22:27 PM] Remote config saved
+[Info | 6:22:27 PM] User saved as 192582927 - 0cnflr
+[Info | 6:22:27 PM] Saving Clip folder: C:\Medal
+[Info | 6:22:27 PM] C:\Medal - folder verified
+[Info | 6:22:27 PM] Clip folder: C:\Medal
+[Info | 6:22:27 PM] Backup clips folder is C:\Medal
+[Info | 6:22:28 PM] Initial app settings - Hotkeys are: [clip;length=60: short_press of keyboard F1, segment_toggle: long_press of keyboard F1, callback;event=dismiss: short_press of keyboard ALT + SHIFT + d, callback;event=answerVoice: short_press of keyboard ALT + SHIFT + z, callback;event=declineVoice: short_press of keyboard ALT + SHIFT + x, callback;event=acceptMessageRequest: short_press of keyboard ALT + SHIFT + c, callback;event=viewScreenshot: short_press of keyboard ALT + SHIFT + v] - FPS setting is 30 - Resolution setting is 1280x720 - Clip length is 60 - Detect all games setting is False - Encoding setting is GPU - Overlay setting is True - Sound setting is True - Full Session Sound Alerts setting is True - Mic input setting is True - Mic gain is 0.5 - Game sound gain is 0.5 - Auto upload setting is False - Auto upload state setting is 1 - environment setting is production - WindowsGameMode setting is False - Clip Folder is C:\Medal - Bitrate setting is 10 - Selected audio device is Auto - Selected mic device is Auto - Full Session Mode Enabled setting is False - DevelopmentModeEnabled setting is False - Mono audio setting is False - Selected webcam device is <None> - WebcamEnabled setting is False - Show Cursor setting is False - Game Audio Only setting is False - Discord Audio setting is False - In Memory Buffer setting is True - Mic noise gate enabled setting is False - Mic noise gate open threshold is -100 - Mic noise suppression enabled setting is False - Audio Notifications setting is False - IncreaseMaxFrameLatencySetting is True - Aspect Ratio is Custom - Advanced Window Capture setting is False - Recording Enabled setting is True - Voice Clipping Enabled setting is False - Voice Clipping Phrases setting is  - ICYMI setting is False - ICYMI setting: { enabled: [Rocket League, League of Legends, Fortnite, War Thunder, Apex Legends, Splitgate: Arena Warfare, Valorant, Yu-Gi-Oh! Master Duel, Counter-Strike 2], disabled: [] } - ICYMI Clip length is 60 - ICYMI Sound setting is True - ICYMI use Overwolf setting is False - Output Format setting is matroska, Extension .mkv - Multiple Audio Streams setting is False - BFrames Enabled setting is False - UseStringID is False - External File Sources setting is {"nativeOptions":[{"label":"NVIDIAShadowPlay","value":"shadowplay","enabled":false,"freeUpSpace":false},{"label":"AMDReLive","value":"relive","enabled":false,"freeUpSpace":false},{"label":"OBS","value":"obs","enabled":false,"freeUpSpace":false}],"folders":[]} - Quality Preset setting is Performance - Selected GPU device is Auto - Controller key logging enabled setting is True - Monitor Device Name setting is {
+  "monitorDeviceName": "",
+  "monitorDeviceName.base64": ""
+} - Broadcast Target is hidden - Broadcast setting is Disabled - Progressive uploads setting is False - Overlay Injected Mode setting is True
+[Info | 6:22:28 PM] request user 
+[Info | 6:22:28 PM] request environment 
+[Info | 6:22:28 PM] Checking hardware encoders
+[Debug | 6:22:29 PM] Executing Request: set.sdkmode - {
+  "enabled": false
+}
+[Warning | 6:22:29 PM] No command for set.sdkmode
+[Debug | 6:22:29 PM] Executing Request: set.useStringId - {
+  "enabled": true
+}
+[Info | 6:22:29 PM] job.respond 356c56a2-47d3-4ed0-952d-689e14b830db
+[Debug | 6:22:29 PM] job.respond "ok"
+[Debug | 6:22:29 PM] Executing Request: get.hardwareId - 
+[Warning | 6:22:29 PM] No command for get.hardwareId
+[Info | 6:22:29 PM] job.respond 86426dca-39f6-4b6c-ab3e-c0d7d5848034
+[Debug | 6:22:29 PM] job.respond "ok"
+[Info | 6:22:29 PM] Saving UseStringID True
+[Info | 6:22:29 PM] job.respond b438f236-d76e-42c4-8cbb-1cbfc7a8331c
+[Debug | 6:22:29 PM] Executing Request: get.hardwareId - 
+[Warning | 6:22:29 PM] No command for get.hardwareId
+[Info | 6:22:29 PM] job.respond f9228f8e-f60b-4135-9810-326e89f9dab1
+[Debug | 6:22:29 PM] job.respond "ok"
+[Info | 6:22:29 PM] 1 logs of- job.respond "ok"
+[Debug | 6:22:29 PM] PollDesktopJobQueue reply [{"uuid":"b438f236-d76e-42c4-8cbb-1cbfc7a8331c","body":{"enabled":true},"action":"set.useStringId"},{"uuid":"f9228f8e-f60b-4135-9810-326e89f9dab1","action":"get.hardwareId"}]
+[Info | 6:22:29 PM] Username is base64 translated to 0cnflr
+[Info | 6:22:29 PM] User updated 192582927 - 0cnflr
+[Info | 6:22:29 PM] job.respond 2b4d5e8c-0330-4dfe-ab38-19d77b71bf00
+[Debug | 6:22:29 PM] Executing Request: get.hardwareId - 
+[Warning | 6:22:29 PM] No command for get.hardwareId
+[Debug | 6:22:29 PM] job.respond "ok"
+[Info | 6:22:29 PM] job.respond e4455bcf-2db7-4cf8-9c83-c4336a5d553f
+[Debug | 6:22:29 PM] job.respond "ok"
+[Info | 6:22:29 PM] Saving ICYMI Events
+[Info | 6:22:29 PM] job.respond 1e64fa0f-f300-4374-b5f7-757b05e8bbec
+[Debug | 6:22:29 PM] Executing Request: get.hardwareId - 
+[Warning | 6:22:29 PM] No command for get.hardwareId
+[Debug | 6:22:29 PM] job.respond "ok"
+[Info | 6:22:29 PM] job.respond a193d421-830a-4606-806a-7de1e275f8f4
+[Debug | 6:22:29 PM] job.respond "ok"
+[Debug | 6:22:29 PM] PollDesktopJobQueue reply [{"uuid":"356c56a2-47d3-4ed0-952d-689e14b830db","body":{"enabled":false},"action":"set.sdkmode"},{"uuid":"86426dca-39f6-4b6c-ab3e-c0d7d5848034","body":null,"action":"get.hardwareId"},{"uuid":"2b4d5e8c-0330-4dfe-ab38-19d77b71bf00","body":{"userName.base64":"MGNuZmxy","key":"e71c8778-67c0-451c-aa41-0bf9d2d20b06","userId":"192582927","userName":"0cnflr","roles":[{"id":"joPTNOxoJ","categoryId":"06pjlvE8T","name":"Mobile Master","description":"A mobile app user","icon":"https://cdn.medal.tv/assets/img/roles/mobile.26f764d7.png"}],"thumbnail":"https://cdn.medal.tv/assets/img/avatars/avatar-f4-front.png","premiumType":"NONE","state":null},"action":"user"},{"uuid":"e4455bcf-2db7-4cf8-9c83-c4336a5d553f","body":null,"action":"get.hardwareId"},{"uuid":"a193d421-830a-4606-806a-7de1e275f8f4","body":null,"action":"get.hardwareId"}]
+[Debug | 6:22:30 PM] Executing Request: set.allSettings-{"settings":{"set.gameSoundAudioDevice":{"audioDevices":["Auto"]},"set.micAudioDevice":{"audioDevice":"Auto"},"set.devmode":{"enabled":false},"set.bookmarkModeEnabled":{"enabled":false},"set.fullSessionModeEnabled":{"enabled":false},"set.webcam.overlay":{"enabled":false,"position":{"index":1,"value":"TopRight"}},"set.webcam.device":{"selected":{"id":"<None>","label":"<None>","value":"<None>"}},"set.gpu.device":{"selected":"Auto"},"set.setPushToTalkEnabled":{"enabled":false},"set.mouseTrigger":{},"set.mouseTriggerEnabled":{"enabled":false},"set.controllerTriggerEnabled":{"enabled":true},"set.cliplength":{"cliplength":"60"},"set.icymicliplength":{"cliplength":"0"},"set.inMemoryBuffer":{"enabled":true},"set.resolution":{"resolution":"High"},"set.fps":{"fps":"30"},"set.bitrate":{"bitrate":"10"},"set.sdkmode":{"enabled":false},"set.micinput":{"micinput":1},"set.monoAudio":{"monoaudio":false},"set.overlayalerts":{"overlayalerts":1},"set.soundalerts":{"soundalerts":1},"set.bookmarksoundalerts":{"bookmarksoundalerts":1},"set.aspectRatio":{"aspectRatio":2},"set.detectallgames":{"detectallgames":0},"set.encoder":{"type":"GPU"},"set.clipFolder":{"clipFolder":"C:%path.sep%Users%path.sep%Tyr%path.sep%Documents%path.sep%Medal%path.sep%","clipFolder.base64":"QzpcVXNlcnNcVHlyXERvY3VtZW50c1xNZWRhbFw="},"set.autoUploadState":{},"set.autoUpload":{"autoUpload":false},"set.gameAudioOnly":{"enabled":0},"set.discordAudio":{"enabled":0},"set.setVoiceClipping":{"enabled":0},"set.multipleAudioTracks":{"enabled":0},"set.showCursor":{"enabled":0},"set.holdToRecordEnabled":{"enabled":1},"ICYMIEnabled":{"enabled":0},"set.icymisoundalerts":{"soundalerts":1},"set.windowsGraphicsCapture":{"enabled":0},"set.experimentalCapture":{"enabled":0},"set.hdrCompatibility":{"enabled":0},"set.forceWindowCapture":{"enabled":0},"set.overlayCurrentInjectedMode":{"enabled":1},"set.recordingEnabled":{"enabled":1},"set.micNoiseGate":{"enabled":0},"set.micNoiseSuppress":{"enabled":0},"set.micNoiseGateThreshold":{"open_threshold":-100},"set.externalFileSources":{"nativeOptions":[{"label":"NVIDIAShadowPlay","value":"shadowplay","enabled":false,"freeUpSpace":false},{"label":"AMDReLive","value":"relive","enabled":false,"freeUpSpace":false},{"label":"OBS","value":"obs","enabled":false,"freeUpSpace":false}],"folders":[]},"set.advancedOverlayEnabled":{"enabled":true},"set.monitorDeviceName":{"monitorDeviceName":"","monitorDeviceName.base64":""},"set.gameSoundGain":{"gain":50},"set.micGain":{"gain":50},"set.hotkeys":{"hotkeys":[{"action":"clip;length=60","device":"keyboard","type":"short_press","inputs":"F1"},{"action":"segment_toggle","device":"keyboard","type":"long_press","inputs":"F1"},{"action":"callback;event=dismiss","inputs":"ALT+SHIFT+d","device":"keyboard","type":"short_press"},{"action":"callback;event=answerVoice","inputs":"ALT+SHIFT+z","device":"keyboard","type":"short_press"},{"action":"callback;event=declineVoice","inputs":"ALT+SHIFT+x","device":"keyboard","type":"short_press"},{"action":"callback;event=acceptMessageRequest","inputs":"ALT+SHIFT+c","device":"keyboard","type":"short_press"},{"action":"callback;event=viewScreenshot","inputs":"ALT+SHIFT+v","device":"keyboard","type":"short_press"}]},"set.toggleScreenCapture":{"enabled":false},"set.codec":{"codec":"H264"}}}
+[Info | 6:22:30 PM] Received settings
+[Debug | 6:22:30 PM] Executing Request: set.gameSoundAudioDevice - {
+  "audioDevices": [
+    "Auto"
+  ]
+}
+[Info | 6:22:30 PM] Saving unplugged audio devices - 
+[Info | 6:22:30 PM] Selected audio output devices Auto
+[Info | 6:22:30 PM] Attempting to get supported GPU codecs
+[Debug | 6:22:30 PM] Executing Request: set.micAudioDevice - {
+  "audioDevice": "Auto"
+}
+[Info | 6:22:30 PM] Selected mic device Auto
+[Info | 6:22:30 PM] Found supported GPU: GeForce MX350
+[Debug | 6:22:30 PM] Executing Request: set.devmode - {
+  "enabled": false
+}
+[Info | 6:22:30 PM] Saving DevelopmentModeEnabled False
+[Debug | 6:22:30 PM] Executing Request: set.bookmarkModeEnabled - {
+  "enabled": false
+}
+[Info | 6:22:30 PM] GeForce MX350 drivers are up to date.
+[Info | 6:22:30 PM] Saving Full Session Mode Enabled False
+[Debug | 6:22:30 PM] Executing Request: set.fullSessionModeEnabled - {
+  "enabled": false
+}
+[Info | 6:22:30 PM] Saving Full Session Mode Enabled False
+[Debug | 6:22:30 PM] Executing Request: set.webcam.overlay - {
+  "enabled": false,
+  "position": {
+    "index": 1,
+    "value": "Top Right"
+  }
+}
+[Info | 6:22:30 PM] Saving WebcamEnabled False
+[Info | 6:22:30 PM] Saving WebcamPositionIndex: 1
+[Debug | 6:22:30 PM] Executing Request: set.webcam.device - {
+  "selected": {
+    "id": "<None>",
+    "label": "<None>",
+    "value": "<None>"
+  }
+}
+[Info | 6:22:30 PM] Selected Webcam device <None>
+[Debug | 6:22:30 PM] Executing Request: set.gpu.device - {
+  "selected": "Auto"
+}
+[Info | 6:22:30 PM] Selected GPU device Auto
+[Info | 6:22:30 PM] Video codec set: libopenh264 - software encoding
+[Debug | 6:22:30 PM] Executing Request: set.setPushToTalkEnabled - {
+  "enabled": false
+}
+[Debug | 6:22:30 PM] Executing Request: set.mouseTrigger - {}
+[Debug | 6:22:30 PM] Executing Request: set.mouseTriggerEnabled - {
+  "enabled": false
+}
+[Debug | 6:22:30 PM] Executing Request: set.controllerTriggerEnabled - {
+  "enabled": true
+}
+[Debug | 6:22:30 PM] Executing Request: set.cliplength - {
+  "cliplength": "60"
+}
+[Info | 6:22:30 PM] Saving clip length 60
+[Debug | 6:22:30 PM] Executing Request: set.icymicliplength - {
+  "cliplength": "0"
+}
+[Info | 6:22:30 PM] Saving ICYMI clip length 60
+[Debug | 6:22:30 PM] Executing Request: set.inMemoryBuffer - {
+  "enabled": true
+}
+[Info | 6:22:30 PM] Saving In Memory Buffer True
+[Debug | 6:22:30 PM] Executing Request: set.resolution - {
+  "resolution": "High"
+}
+[Info | 6:22:30 PM] Saving resolution High
+[Info | 6:22:30 PM] Saving bitrate 10
+[Info | 6:22:30 PM] Sending Bitrate Setting
+[Info | 6:22:30 PM] SendBitrateSetting reply "ok"
+[Debug | 6:22:30 PM] Executing Request: set.fps - {
+  "fps": "30"
+}
+[Info | 6:22:30 PM] Saving FPS 30
+[Info | 6:22:31 PM] Hook data extracted
+[Debug | 6:22:31 PM] Executing Request: set.bitrate - {
+  "bitrate": "10"
+}
+[Info | 6:22:31 PM] Saving bitrate 10
+[Debug | 6:22:31 PM] Executing Request: set.sdkmode - {
+  "enabled": false
+}
+[Warning | 6:22:31 PM] No command for set.sdkmode
+[Debug | 6:22:31 PM] Executing Request: set.micinput - {
+  "micinput": 1
+}
+[Info | 6:22:31 PM] Saving Mic Input True
+[Debug | 6:22:31 PM] Executing Request: set.monoAudio - {
+  "monoaudio": false
+}
+[Info | 6:22:31 PM] Saving Mono Audio False
+[Debug | 6:22:31 PM] Executing Request: set.overlayalerts - {
+  "overlayalerts": 1
+}
+[Info | 6:22:31 PM] Saving Overlay Alerts True
+[Debug | 6:22:31 PM] Executing Request: set.soundalerts - {
+  "soundalerts": 1
+}
+[Info | 6:22:31 PM] Saving Sound Alerts True
+[Debug | 6:22:31 PM] Executing Request: set.bookmarksoundalerts - {
+  "bookmarksoundalerts": 1
+}
+[Info | 6:22:31 PM] Saving Full Session Sound Alerts True
+[Debug | 6:22:31 PM] Executing Request: set.aspectRatio - {
+  "aspectRatio": 2
+}
+[Info | 6:22:31 PM] Saving Aspect Ratio Custom
+[Debug | 6:22:31 PM] Executing Request: set.detectallgames - {
+  "detectallgames": 0
+}
+[Info | 6:22:31 PM] Saving Detect All Games False
+[Debug | 6:22:31 PM] Executing Request: set.encoder - {
+  "type": "GPU"
+}
+[Info | 6:22:31 PM] Video codec set: libopenh264 - software encoding
+[Debug | 6:22:31 PM] Executing Request: set.clipFolder - {
+  "clipFolder": "C:%path.sep%Users%path.sep%Tyr%path.sep%Documents%path.sep%Medal%path.sep%",
+  "clipFolder.base64": "QzpcVXNlcnNcVHlyXERvY3VtZW50c1xNZWRhbFw="
+}
+[Info | 6:22:31 PM] Saving Clip folder: QzpcVXNlcnNcVHlyXERvY3VtZW50c1xNZWRhbFw=
+[Info | 6:22:31 PM] Clip folder setting is base64 translated to C:\Users\Tyr\Documents\Medal\
+[Info | 6:22:31 PM] C:\Users\Tyr\Documents\Medal\ - folder verified
+[Debug | 6:22:31 PM] Executing Request: set.autoUploadState - {}
+[Info | 6:22:31 PM] Saving Auto Upload State 
+[Warning | 6:22:31 PM] Auto upload state settings invalid  -- resetting to 1
+[Debug | 6:22:31 PM] Executing Request: set.autoUpload - {
+  "autoUpload": false
+}
+[Info | 6:22:31 PM] Saving Auto Upload False
+[Debug | 6:22:31 PM] Executing Request: set.gameAudioOnly - {
+  "enabled": 0
+}
+[Info | 6:22:31 PM] Saving Game Audio Only 0
+[Debug | 6:22:31 PM] Executing Request: set.discordAudio - {
+  "enabled": 0
+}
+[Warning | 6:22:32 PM] [SDK] MFEncoderImplNV<class CCoMFEncoderNV>::_Init_OpenEncoder - m_apiList.nvEncOpenEncodeSessionEx() version=8 sts=2 (NVENC that devices pass by the client is not supported)
+[Critical | 6:22:32 PM] [SDK] MFEncoderImplNV<class CCoMFEncoderNV>::_Init_OpenEncoder
+[Info | 6:22:32 PM] Saving Discord Audio 0
+[Debug | 6:22:32 PM] Executing Request: set.setVoiceClipping - {
+  "enabled": 0
+}
+[Info | 6:22:32 PM] Saving Voice Clipping Enabled 0
+[Debug | 6:22:32 PM] Executing Request: set.multipleAudioTracks - {
+  "enabled": 0
+}
+[Info | 6:22:32 PM] Saving Multiple Audio Streams 0
+[Debug | 6:22:32 PM] Executing Request: set.showCursor - {
+  "enabled": 0
+}
+[Info | 6:22:32 PM] Saving Show Cursor False
+[Info | 6:22:32 PM] [ESM Event] - ConfigChangedNoRestart
+[Debug | 6:22:32 PM] Executing Request: set.holdToRecordEnabled - {
+  "enabled": 1
+}
+[Debug | 6:22:32 PM] Executing Request: ICYMIEnabled - {
+  "enabled": 0
+}
+[Info | 6:22:32 PM] Saving ICYMI False
+[Debug | 6:22:32 PM] Executing Request: set.icymisoundalerts - {
+  "soundalerts": 1
+}
+[Warning | 6:22:32 PM] [SDK] MFEncoderImplNV<class CCoMFEncoderNV>::_Init_OpenEncoder - m_apiList.nvEncOpenEncodeSessionEx() version=-241888312 sts=15 (NVENC indicates that an invalid struct version was used by the client)
+[Critical | 6:22:32 PM] [SDK] MFEncoderImplNV<class CCoMFEncoderNV>::_Init_OpenEncoder
+[Info | 6:22:32 PM] Saving ICYMI Sound Alerts True
+[Debug | 6:22:32 PM] Executing Request: set.windowsGraphicsCapture - {
+  "enabled": 0
+}
+[Info | 6:22:32 PM] Saving Advanced Window Capture 0
+[Debug | 6:22:32 PM] Executing Request: set.experimentalCapture - {
+  "enabled": 0
+}
+[Warning | 6:22:32 PM] No command for set.experimentalCapture
+[Debug | 6:22:32 PM] Executing Request: set.hdrCompatibility - {
+  "enabled": 0
+}
+[Warning | 6:22:32 PM] No command for set.hdrCompatibility
+[Debug | 6:22:32 PM] Executing Request: set.forceWindowCapture - {
+  "enabled": 0
+}
+[Warning | 6:22:32 PM] No command for set.forceWindowCapture
+[Debug | 6:22:32 PM] Executing Request: set.overlayCurrentInjectedMode - {
+  "enabled": 1
+}
+[Info | 6:22:32 PM] Saving OverlayCurrentInjectedMode 1
+[Debug | 6:22:32 PM] Executing Request: set.recordingEnabled - {
+  "enabled": 1
+}
+[Info | 6:22:32 PM] Saving Recording Enabled 1
+[Info | 6:22:32 PM] [ESM Event] - EnableRecordingSet
+[Debug | 6:22:32 PM] Executing Request: set.micNoiseGate - {
+  "enabled": 0
+}
+[Info | 6:22:32 PM] Saving mic noise gate enabled 0
+[Debug | 6:22:32 PM] Executing Request: set.micNoiseSuppress - {
+  "enabled": 0
+}
+[Info | 6:22:32 PM] Saving mic noise suppression enabled 0
+[Debug | 6:22:32 PM] Executing Request: set.micNoiseGateThreshold - {
+  "open_threshold": -100
+}
+[Info | 6:22:32 PM] Saving mic noise gate threshold -100
+[Debug | 6:22:32 PM] Executing Request: set.externalFileSources-{"nativeOptions":[{"label":"NVIDIAShadowPlay","value":"shadowplay","enabled":false,"freeUpSpace":false},{"label":"AMDReLive","value":"relive","enabled":false,"freeUpSpace":false},{"label":"OBS","value":"obs","enabled":false,"freeUpSpace":false}],"folders":[]}
+[Info | 6:22:32 PM] Setting up external recorders
+[Info | 6:22:32 PM] External recorder shadowplay is disabled
+[Info | 6:22:32 PM] External recorder relive is disabled
+[Info | 6:22:32 PM] External recorder obs is disabled
+[Info | 6:22:32 PM] External recorder setup complete
+[Info | 6:22:32 PM] Saving External File Sources {
+  "nativeOptions": [
+    {
+      "label": "NVIDIA ShadowPlay",
+      "value": "shadowplay",
+      "enabled": false,
+      "freeUpSpace": false
+    },
+    {
+      "label": "AMD ReLive",
+      "value": "relive",
+      "enabled": false,
+      "freeUpSpace": false
+    },
+    {
+      "label": "OBS",
+      "value": "obs",
+      "enabled": false,
+      "freeUpSpace": false
+    }
+  ],
+  "folders": []
+}
+[Debug | 6:22:32 PM] Executing Request: set.advancedOverlayEnabled - {
+  "enabled": true
+}
+[Warning | 6:22:32 PM] No command for set.advancedOverlayEnabled
+[Debug | 6:22:32 PM] Executing Request: set.monitorDeviceName - {
+  "monitorDeviceName": "",
+  "monitorDeviceName.base64": ""
+}
+[Info | 6:22:33 PM] Monitor Device Name:{
+  "monitorDeviceName": "",
+  "monitorDeviceName.base64": ""
+}
+[Info | 6:22:33 PM] [ESM Event] - WindowCaptureSetMonitor
+[Debug | 6:22:33 PM] Executing Request: set.gameSoundGain - {
+  "gain": 50
+}
+[Info | 6:22:33 PM] Saving game sound gain 50
+[Debug | 6:22:33 PM] Executing Request: set.micGain - {
+  "gain": 50
+}
+[Info | 6:22:33 PM] Saving mic gain 50
+[Debug | 6:22:33 PM] Executing Request: set.hotkeys - {
+  "hotkeys": [
+    {
+      "action": "clip;length=60",
+      "device": "keyboard",
+      "type": "short_press",
+      "inputs": "F1"
+    },
+    {
+      "action": "segment_toggle",
+      "device": "keyboard",
+      "type": "long_press",
+      "inputs": "F1"
+    },
+    {
+      "action": "callback;event=dismiss",
+      "inputs": "ALT + SHIFT + d",
+      "device": "keyboard",
+      "type": "short_press"
+    },
+    {
+      "action": "callback;event=answerVoice",
+      "inputs": "ALT + SHIFT + z",
+      "device": "keyboard",
+      "type": "short_press"
+    },
+    {
+      "action": "callback;event=declineVoice",
+      "inputs": "ALT + SHIFT + x",
+      "device": "keyboard",
+      "type": "short_press"
+    },
+    {
+      "action": "callback;event=acceptMessageRequest",
+      "inputs": "ALT + SHIFT + c",
+      "device": "keyboard",
+      "type": "short_press"
+    },
+    {
+      "action": "callback;event=viewScreenshot",
+      "inputs": "ALT + SHIFT + v",
+      "device": "keyboard",
+      "type": "short_press"
+    }
+  ]
+}
+[Info | 6:22:33 PM] Saving hotkey settings [
+  {
+    "action": "clip;length=60",
+    "device": "keyboard",
+    "type": "short_press",
+    "inputs": "F1"
+  },
+  {
+    "action": "segment_toggle",
+    "device": "keyboard",
+    "type": "long_press",
+    "inputs": "F1"
+  },
+  {
+    "action": "callback;event=dismiss",
+    "inputs": "ALT + SHIFT + d",
+    "device": "keyboard",
+    "type": "short_press"
+  },
+  {
+    "action": "callback;event=answerVoice",
+    "inputs": "ALT + SHIFT + z",
+    "device": "keyboard",
+    "type": "short_press"
+  },
+  {
+    "action": "callback;event=declineVoice",
+    "inputs": "ALT + SHIFT + x",
+    "device": "keyboard",
+    "type": "short_press"
+  },
+  {
+    "action": "callback;event=acceptMessageRequest",
+    "inputs": "ALT + SHIFT + c",
+    "device": "keyboard",
+    "type": "short_press"
+  },
+  {
+    "action": "callback;event=viewScreenshot",
+    "inputs": "ALT + SHIFT + v",
+    "device": "keyboard",
+    "type": "short_press"
+  }
+]
+[Info | 6:22:33 PM] Codec Succeeded h264_amf
+[Info | 6:22:33 PM] AMD driver version is supported.
+[Info | 6:22:33 PM] Debug log- ReceiverFramePut error n264. The request is not supported. (Exception from HRESULT: 0x80070032). 
+[Info | 6:22:33 PM] Generated optimal encoding option h264_amf
+[Info | 6:22:33 PM] Video codec set: h264_amf - hardware encoding
+[Info | 6:22:33 PM] C:\Users\Tyr\Documents\Medal\ - folder verified
+[Info | 6:22:33 PM] Set process priority to High
+[Info | 6:22:33 PM] Saving Push to talk enabled False
+[Info | 6:22:33 PM] [ESM Event] - PushToTalkEnable
+[Debug | 6:22:33 PM] Executing Request: set.toggleScreenCapture - {
+  "enabled": false
+}
+[Info | 6:22:33 PM] Attempting to start process watcher
+[Info | 6:22:33 PM] [System.RuntimeMethodHandle] Set security permissions for C:\Users\Tyr\AppData\Local\Medal\recorder-3.829.0\Host\medal-hook64.dll
+[Info | 6:22:33 PM] [System.RuntimeMethodHandle] Set security permissions for C:\Users\Tyr\AppData\Local\Medal\recorder-3.829.0\Host\medal-hook32.dll
+[Info | 6:22:33 PM] [ESM Event] - StopScreenCapture
+[Info | 6:22:33 PM] Toggle Screen Capture False
+[Debug | 6:22:33 PM] Executing Request: set.codec - {
+  "codec": "H264"
+}
+[Warning | 6:22:33 PM] No command for set.codec
+[Info | 6:22:33 PM] job.respond 7c71ac41-4056-4a02-9676-b02ca51deca6
+[Debug | 6:22:33 PM] Executing Request: get.availableMicDevices - 
+[Info | 6:22:33 PM] Process watcher started
+[Info | 6:22:33 PM] codecName- h264_amf, fcc type- eMFCC_UYVY
+[Info | 6:22:33 PM] Output Mode: Clip Output
+[Info | 6:22:33 PM] MedalWriter Created
+[Info | 6:22:33 PM] Contains args: True
+[Info | 6:22:33 PM] No other MedalEncoder instances running
+[Info | 6:22:33 PM] SDK feature flags--
+[Info | 6:22:33 PM] correct_start_ts is false - mdelay_store_video is false - dx_pipeline_reusable is false - audio_mixing is false - 
+[Info | 6:22:33 PM] [Global Keyhook] Started
+[Info | 6:22:33 PM] Disabling windows game mode to improve performance..
+[Info | 6:22:33 PM] Windows game mode disabled.
+[Debug | 6:22:33 PM] job.respond "ok"
+[Info | 6:22:33 PM] Saving WindowsGameMode 0
+[Info | 6:22:33 PM] Video codec set: h264_amf - hardware encoding
+[Info | 6:22:34 PM] Sending available mic devices Microphone (Razer Seiren Mini), Headset (WH-1000XM5), Microphone Array (Realtek(R) Audio), Microphone (Fantech Luminous C30)
+[Info | 6:22:34 PM] job.respond 1e4a8039-b8a4-42de-bdfd-026e03b9c48d
+[Debug | 6:22:34 PM] Executing Request: get.availableAudioDevices - 
+[Debug | 6:22:34 PM] Executing Request: get.hardwareId - 
+[Warning | 6:22:34 PM] No command for get.hardwareId
+[Info | 6:22:34 PM] job.respond 9c0d012e-bea8-4789-9120-307e10be0699
+[Debug | 6:22:34 PM] PollDesktopJobQueue reply [{"uuid":"9c0d012e-bea8-4789-9120-307e10be0699","action":"get.hardwareId"}]
+[Debug | 6:22:34 PM] job.respond "ok"
+[Info | 6:22:34 PM] Sending available audio devices Headphones (WH-1000XM5), 1 - G27-20 (AMD High Definition Audio Device), Speakers (Realtek(R) Audio)
+[Info | 6:22:34 PM] job.respond 199e42c8-775b-409d-beea-280c197652f6
+[Debug | 6:22:34 PM] Executing Request: get.micAudioDevice - 
+[Info | 6:22:34 PM] Sending selected mic device Auto
+[Info | 6:22:34 PM] job.respond 05ab555b-cfc8-46be-8a96-2a63b7142f5c
+[Debug | 6:22:34 PM] Executing Request: get.gameSoundAudioDevice - 
+[Info | 6:22:34 PM] Sending selected audio output devices Auto
+[Info | 6:22:34 PM] job.respond 84969f6c-50a4-4b93-8a55-e91746f51ab8
+[Debug | 6:22:34 PM] Executing Request: get.GAODisabledList - 
+[Info | 6:22:34 PM] Found available electron port 10603
+[Info | 6:22:34 PM] Sending games with not supported GAO
+[Info | 6:22:34 PM] job.respond d62097b1-2437-4a6e-ade1-135d050aa416
+[Debug | 6:22:34 PM] PollDesktopJobQueue reply [{"uuid":"7c71ac41-4056-4a02-9676-b02ca51deca6","body":{"settings":{"set.gameSoundAudioDevice":{"audioDevices":["Auto"]},"set.micAudioDevice":{"audioDevice":"Auto"},"set.devmode":{"enabled":false},"set.bookmarkModeEnabled":{"enabled":false},"set.fullSessionModeEnabled":{"enabled":false},"set.webcam.overlay":{"enabled":false,"position":{"index":1,"value":"Top Right"}},"set.webcam.device":{"selected":{"id":"<None>","label":"<None>","value":"<None>"}},"set.gpu.device":{"selected":"Auto"},"set.setPushToTalkEnabled":{"enabled":false},"set.mouseTrigger":{},"set.mouseTriggerEnabled":{"enabled":false},"set.controllerTriggerEnabled":{"enabled":true},"set.cliplength":{"cliplength":"60"},"set.icymicliplength":{"cliplength":"0"},"set.inMemoryBuffer":{"enabled":true},"set.resolution":{"resolution":"High"},"set.fps":{"fps":"30"},"set.bitrate":{"bitrate":"10"},"set.sdkmode":{"enabled":false},"set.micinput":{"micinput":1},"set.monoAudio":{"monoaudio":false},"set.overlayalerts":{"overlayalerts":1},"set.soundalerts":{"soundalerts":1},"set.bookmarksoundalerts":{"bookmarksoundalerts":1},"set.aspectRatio":{"aspectRatio":2},"set.detectallgames":{"detectallgames":0},"set.encoder":{"type":"GPU"},"set.clipFolder":{"clipFolder":"C:%path.sep%Users%path.sep%Tyr%path.sep%Documents%path.sep%Medal%path.sep%","clipFolder.base64":"QzpcVXNlcnNcVHlyXERvY3VtZW50c1xNZWRhbFw="},"set.autoUploadState":{},"set.autoUpload":{"autoUpload":false},"set.gameAudioOnly":{"enabled":0},"set.discordAudio":{"enabled":0},"set.setVoiceClipping":{"enabled":0},"set.multipleAudioTracks":{"enabled":0},"set.showCursor":{"enabled":0},"set.holdToRecordEnabled":{"enabled":1},"ICYMIEnabled":{"enabled":0},"set.icymisoundalerts":{"soundalerts":1},"set.windowsGraphicsCapture":{"enabled":0},"set.experimentalCapture":{"enabled":0},"set.hdrCompatibility":{"enabled":0},"set.forceWindowCapture":{"enabled":0},"set.overlayCurrentInjectedMode":{"enabled":1},"set.recordingEnabled":{"enabled":1},"set.micNoiseGate":{"enabled":0},"set.micNoiseSuppress":{"enabled":0},"set.micNoiseGateThreshold":{"open_threshold":-100},"set.externalFileSources":{"nativeOptions":[{"label":"NVIDIA ShadowPlay","value":"shadowplay","enabled":false,"freeUpSpace":false},{"label":"AMD ReLive","value":"relive","enabled":false,"freeUpSpace":false},{"label":"OBS","value":"obs","enabled":false,"freeUpSpace":false}],"folders":[]},"set.advancedOverlayEnabled":{"enabled":true},"set.monitorDeviceName":{"monitorDeviceName":"","monitorDeviceName.base64":""},"set.gameSoundGain":{"gain":50},"set.micGain":{"gain":50},"set.hotkeys":{"hotkeys":[{"action":"clip;length=60","device":"keyboard","type":"short_press","inputs":"F1"},{"action":"segment_toggle","device":"keyboard","type":"long_press","inputs":"F1"},{"action":"callback;event=dismiss","inputs":"ALT + SHIFT + d","device":"keyboard","type":"short_press"},{"action":"callback;event=answerVoice","inputs":"ALT + SHIFT + z","device":"keyboard","type":"short_press"},{"action":"callback;event=declineVoice","inputs":"ALT + SHIFT + x","device":"keyboard","type":"short_press"},{"action":"callback;event=acceptMessageRequest","inputs":"ALT + SHIFT + c","device":"keyboard","type":"short_press"},{"action":"callback;event=viewScreenshot","inputs":"ALT + SHIFT + v","device":"keyboard","type":"short_press"}]},"set.toggleScreenCapture":{"enabled":false},"set.codec":{"codec":"H264"}}},"action":"set.allSettings"},{"uuid":"1e4a8039-b8a4-42de-bdfd-026e03b9c48d","action":"get.availableMicDevices"},{"uuid":"199e42c8-775b-409d-beea-280c197652f6","action":"get.availableAudioDevices"},{"uuid":"05ab555b-cfc8-46be-8a96-2a63b7142f5c","action":"get.micAudioDevice"},{"uuid":"84969f6c-50a4-4b93-8a55-e91746f51ab8","action":"get.gameSoundAudioDevice"},{"uuid":"d62097b1-2437-4a6e-ade1-135d050aa416","action":"get.GAODisabledList"}]
+[Info | 6:22:34 PM] Username is base64 translated to 0cnflr
+[Info | 6:22:34 PM] User updated 192582927 - 0cnflr
+[Info | 6:22:34 PM] request environment reply "production"
+[Info | 6:22:34 PM] Saving environment production
+[Debug | 6:22:34 PM] encoder options reply "ok"
+[Info | 6:22:34 PM] request windowsgamemode reply "ok"
+[Info | 6:22:34 PM] Sending available web cam devices {"availableDevices":[{"id":"USB2.0 HD IR UVC WebCam","label":"USB2.0 HD IR UVC WebCam","value":"USB2.0 HD IR UVC WebCam"},{"id":"Snap Camera","label":"Snap Camera","value":"Snap Camera"},{"id":"Fantech Luminous C30","label":"Fantech Luminous C30","value":"Fantech Luminous C30"},{"id":"<None>","label":"<None>","value":"<None>"}],"selectedDevice":{"id":"<None>","label":"<None>","value":"<None>"}}
+[Info | 6:22:34 PM] Sending available GPU devices NVIDIA GeForce MX350, AMD Radeon(TM) Graphics
+[Info | 6:22:34 PM] NVAPIManager: Medal.exe - profile not found
+[Info | 6:22:35 PM] NVAPIManager: C:\Users\Tyr\AppData\Local\Medal\recorder-3.829.0\MedalEncoder.exe - profile not found
+[Info | 6:22:35 PM] GPU Scheduling registry exists
+[Info | 6:22:35 PM] ----[ESM State]: Initializing----
+[Info | 6:22:35 PM] Initializing DirectX overlay
+[Info | 6:22:35 PM] Initializing Electron overlay
+[Info | 6:22:35 PM] Removed existing vulkan registry info [C:\Users\Tyr\AppData\Local\Medal\recorder-3.829.0\Host\medal-vulkan64.json]
+[Info | 6:22:35 PM] Removed existing vulkan registry info [C:\Users\Tyr\AppData\Local\Medal\recorder-3.829.0\Host\medal-vulkan32.json]
+[Info | 6:22:35 PM] Updated vulkan registry info [C:\Users\Tyr\AppData\Local\Medal\recorder-3.829.0]
+[Info | 6:22:35 PM] [ESM Event] - Initialized
+[Info | 6:22:35 PM] Running as admin False
+[Info | 6:22:35 PM] DetectAllGames False
+[Info | 6:22:35 PM] Recorder Initilization Complete
+[Info | 6:22:35 PM] CPU supports ICYMI.
+[Info | 6:22:35 PM] Saving Output Format mkv
+[Info | 6:22:36 PM] Memory-mapped file does not exist.
+[Info | 6:22:36 PM] Config file not found at C:\Users\Tyr\AppData\Local\NVIDIA Corporation\NvNode\nodejs.json
+[Info | 6:22:36 PM] Config file does not exist
+[Info | 6:22:36 PM] TPGame API started at http://localhost:12665
+[Info | 6:22:36 PM] ----[ESM State]: UpdatingGameDatabase----
+[Info | 6:22:36 PM] Saving ICYMI Events
+[Info | 6:22:36 PM] job.respond f5dbfc74-9b7f-483a-8d0a-a267152d4b78
+[Debug | 6:22:36 PM] PollDesktopJobQueue reply []
+[Debug | 6:22:36 PM] job.respond "ok"
+[Info | 6:22:36 PM] Checking for new version from https://cdn.medal.tv/asset/games-db/production/version.json
+[Info | 6:22:36 PM] Remote Info: {"Version":"2.825","Command":"none","Environment":"production"}
+[Info | 6:22:36 PM] Local Info: {"Version":"2.825","Command":"none","Environment":"production"}
+[Info | 6:22:36 PM] No update is available.
+[Info | 6:22:36 PM] [ESM Event] - GameDBUpdateComplete
+[Info | 6:22:36 PM] GameDB: C:\Users\Tyr\AppData\Local\Medal\recorder-3.829.0\MedalGameInfo.db
+[Info | 6:22:37 PM] Custom database location is C:\Users\Tyr\AppData\Roaming\Medal\CustomGameDatabase.db
+[Info | 6:22:37 PM] ----[ESM State]: ScanningForGame----
+[Info | 6:22:38 PM] Game Found Type ProcessClass: Valorant
+[Info | 6:22:38 PM] Process name found VALORANT-Win64-Shipping | Caption | VALORANT   | and class | UnrealWindow | Detect all Games | False
+[Info | 6:22:38 PM] Game found VALORANT-Win64-Shipping Handle: 852002
+[Info | 6:22:38 PM] Monitor: 1179775 Current DPI: 96, 96
+[Info | 6:22:38 PM] Setting up window hooks
+[Info | 6:22:38 PM] Window location change event hooked
+[Info | 6:22:38 PM] Window focus event hooked
+[Info | 6:22:38 PM] Window destroy event hooked
+[Info | 6:22:38 PM] Window reorder event hooked
+[Info | 6:22:38 PM] Window hooks complete
+[Info | 6:22:38 PM] Active game initialized Valorant
+[Info | 6:22:38 PM] [Game Status]: game/started - Valorant[fW3AZxHf_c]
+[Info | 6:22:38 PM] Start recording game Valorant
+[Info | 6:22:38 PM] [ESM Event] - GameFound
+[Debug | 6:22:38 PM] SendAvailableWebCamDevices reply {"device":{"options":[{"id":"USB2.0 HD IR UVC WebCam","label":"USB2.0 HD IR UVC WebCam","value":"USB2.0 HD IR UVC WebCam"},{"id":"Snap Camera","label":"Snap Camera","value":"Snap Camera"},{"id":"Fantech Luminous C30","label":"Fantech Luminous C30","value":"Fantech Luminous C30"},{"id":"<None>","label":"<None>","value":"<None>"}],"selected":{"id":"<None>","label":"<None>","value":"<None>"}}}
+[Debug | 6:22:38 PM] SendAvailableGPUDevices reply {"success":true}
+[Info | 6:22:38 PM] Initilization complete reply "ok"
+[Info | 6:22:38 PM] ----[ESM State]: OBSInjectionState----
+[Info | 6:22:38 PM] Process scanner: completed (236 entities) after 14.6ms
+[Info | 6:22:38 PM] Process detected as: 64 Bit
+[Info | 6:22:38 PM] Attempting to hook... [0]
+[Info | 6:22:38 PM] Starting log reader.
+[Debug | 6:22:39 PM] Executing Request: set.toggleBroadcast - {
+  "enabled": false
+}
+[Info | 6:22:39 PM] Clear override settings
+[Info | 6:22:39 PM] Toggle Broadcast - Enabled:False, Resolution:, Fps:0
+[Info | 6:22:39 PM] [ESM Event] - ConfigChangedRestart
+[Info | 6:22:39 PM] job.respond 97cbdb48-a8e0-4812-9631-5cb83671c6b3
+[Debug | 6:22:39 PM] Executing Request: get.hardwareId - 
+[Warning | 6:22:39 PM] No command for get.hardwareId
+[Info | 6:22:39 PM] job.respond 54d3f3ab-0efc-43e9-9a19-2b28c3a0c488
+[Debug | 6:22:39 PM] job.respond "ok"
+[Info | 6:22:39 PM] Notification message received
+[Debug | 6:22:39 PM] job.respond "ok"
+[Info | 6:22:39 PM] [OBS-Log] graphics-hook.dll loaded against process: VALORANT-Win64-Shipping.exe
+[Info | 6:22:39 PM] [OBS-Log] (half life scientist) everything..  seems to be in order
+[Info | 6:22:39 PM] [OBS-Log] [INFO] [MAIN] Overlay init starting.
+[Info | 6:22:39 PM] job.respond 67ee890b-3197-4642-adcd-02a091a65e0b
+[Debug | 6:22:39 PM] job.respond "ok"
+[Debug | 6:22:40 PM] {"GPU":[{"Name":"NVIDIA GeForce MX350","Status":"OK","Caption":"NVIDIA GeForce MX350","DeviceID":"VideoController1","AdapterDACType":"Integrated RAMDAC","Monochrome":"False","InstalledDisplayDrivers":"C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\nvam.inf_amd64_61df758291bf519e\\nvldumdx.dll,C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\nvam.inf_amd64_61df758291bf519e\\nvldumdx.dll,C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\nvam.inf_amd64_61df758291bf519e\\nvldumdx.dll,C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\nvam.inf_amd64_61df758291bf519e\\nvldumdx.dll","DriverVersion":"27.21.14.6259","VideoProcessor":"GeForce MX350","VideoArchitecture":"5","VideoMemoryType":"2","AdapterRAM":"2.0 GB"},{"Name":"AMD Radeon(TM) Graphics","Status":"OK","Caption":"AMD Radeon(TM) Graphics","DeviceID":"VideoController2","AdapterDACType":"Internal DAC(400MHz)","Monochrome":"False","InstalledDisplayDrivers":"C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\u0379145.inf_amd64_688ab0f94aa68c49\\B377170\\aticfx64.dll,C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\u0379145.inf_amd64_688ab0f94aa68c49\\B377170\\aticfx64.dll,C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\u0379145.inf_amd64_688ab0f94aa68c49\\B377170\\aticfx64.dll,C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\u0379145.inf_amd64_688ab0f94aa68c49\\B377170\\amdxc64.dll","DriverVersion":"30.0.13044.10001","VideoProcessor":"AMD Radeon Graphics Processor (0x1636)","VideoArchitecture":"5","VideoMemoryType":"2","AdapterRAM":"512.0 MB"}],"HardDrives":[{"Name":"Drive C:\\","Drive type":"Fixed","Volume label":"OS","File system":"NTFS","Available space to current user":"270.4 GB","Total available space":"270.4 GB","Total size of drive":"475.3 GB","Root directory":"C:\\","MediaType":"SSD"}],"CPU":[{"Name":"AMD Ryzen 7 4700U with Radeon Graphics         ","DeviceID":"CPU0","Manufacturer":"AuthenticAMD","CurrentClockSpeed":"2000","Caption":"AMD64 Family 23 Model 96 Stepping 1","NumberOfCores":"8","NumberOfEnabledCore":"8","NumberOfLogicalProcessors":"8","Architecture":"x64","Family":"107","ProcessorType":"Central Processor","Characteristics":"252","AddressWidth":"64","MaxClockSpeed":"2000 MHz","InstructionSet":"AVX2"}],"Memory":[{"Capacity":"8192","Manufacturer":"Unknown","PartNumber":"MT53E1G32D4NQ-046","Speed":"4266","MemoryType":"Unknown"},{"Capacity":"8192","Manufacturer":"Unknown","PartNumber":"MT53E1G32D4NQ-046","Speed":"4266","MemoryType":"Unknown"}],"OS":[{"Caption":"Microsoft Windows 11 Home Single Language","WindowsDirectory":"C:\\WINDOWS","ProductType":"1","SystemDirectory":"C:\\WINDOWS\\system32","CountryCode":"1","CurrentTimeZone":"480","Locale":"0409","EncryptionLevel":"256","OSArchitecture":"64-bit","OSLanguage":"1033","OSType":"18","Version":"10.0.22631"}],"Monitors":[{"Name":"","BitsPerPixel":"32","ScreenWidth":"1920","ScreenHeight":"1080","Primary":"True","AspectRatio":"16:9","Diagonal":"14"},{"Name":"G27-20","BitsPerPixel":"32","ScreenWidth":"1920","ScreenHeight":"1080","Primary":"False","AspectRatio":"16:9","Diagonal":"27"}],"Sound":[{"Name":"AMD High Definition Audio Device","ProductName":"AMD High Definition Audio Device","DeviceID":"HDAUDIO\\FUNC_01&VEN_1002&DEV_AA01&SUBSYS_00AA0100&REV_1007\\5&333FA126&0&0001","PowerManagementSupported":"False","Status":"OK","StatusInfo":"3"},{"Name":"USB Audio Device","ProductName":"USB Audio Device","DeviceID":"USB\\VID_1532&PID_0531&MI_00\\8&D65D200&0&0000","PowerManagementSupported":"False","Status":"OK","StatusInfo":"3"},{"Name":"Realtek High Definition Audio","ProductName":"Realtek High Definition Audio","DeviceID":"HDAUDIO\\FUNC_01&VEN_10EC&DEV_0294&SUBSYS_10431092&REV_1000\\5&367DECA2&0&0001","PowerManagementSupported":"False","Status":"OK","StatusInfo":"3"},{"Name":"USB Audio Device","ProductName":"USB Audio Device","DeviceID":"USB\\VID_1D6C&PID_1278&MI_02\\8&51DABFB&0&0002","PowerManagementSupported":"False","Status":"OK","StatusInfo":"3"}],"Motherboard":[{"Name":"Base Board","Model":"null","Manufacturer":"ASUSTeK COMPUTER INC.","SlotLayout":"null","Product":"UX434IQ"}],"Keyboard":[{"Name":"HID Keyboard Device"},{"Name":"HID Keyboard Device"},{"Name":"ASUS Keyboard"},{"Name":"USB Input Device"},{"Name":"HID Keyboard Device"},{"Name":"PC/AT Enhanced PS/2 Keyboard (101/102-Key)"},{"Name":"HID Keyboard Device"}],"Mouse":[{"Name":"HID-compliant mouse","Manufacturer":"Microsoft"},{"Name":"USB Input Device","Manufacturer":"(Standard system devices)"},{"Name":"HID-compliant mouse","Manufacturer":"Microsoft"}],"Controllers":[],"Encoder":[{"Name":"h264_amf"}]}
+[Info | 6:22:40 PM] Sending hardware info
+[Debug | 6:22:40 PM] SendHardwareInfo reply {"success":true}
+[Info | 6:22:43 PM] [d3d8]
+present=0x0
+[d3d9]
+present=0x482b0
+present_ex=0x48350
+present_swap=0xc2b0
+d3d9_clsoff=0x4030
+is_d3d9ex_clsoff=0x55a0
+[dxgi]
+present=0x34820
+present1=0x1540
+resize=0x23820
+release=0x19f0
+
+[Info | 6:22:43 PM] Advanced overlay: per-game supported:True - advancedOverlayEnabled:True - overlayInjectedModeEnabled:True
+[Info | 6:22:43 PM] [ESM Event] - GameCaptureStart
+[Info | 6:22:43 PM] ICYMI initializing. Config Enabled: True - Settings Enabled: False
+[Info | 6:22:43 PM] ----[ESM State]: GameCapture----
+[Info | 6:22:43 PM] [Game Status]: capture/started - Valorant[fW3AZxHf_c]
+[Debug | 6:22:43 PM] capture/started reply "ok"
+[Info | 6:22:43 PM] Valorant_LocalClient: Lockfile found.
+[Info | 6:22:43 PM] Valorant_LocalClient: Lockfile copied to temporary location.
+[Info | 6:22:43 PM] Valorant_LocalClient: Temporary copy of lockfile deleted.
+[Info | 6:22:43 PM] Valorant_LocalClient: Base URL and credentials constructed.
+[Info | 6:22:43 PM] Valorant_LocalClient: HttpClient created.
+[Info | 6:22:43 PM] Started Filter
+[Info | 6:22:43 PM] Valorant_MatchDetector: Successfully got chat session
+[Info | 6:22:43 PM] [OBS-Log] Hooked ID3D12CommandQueue::ExecuteCommandLists
+[Info | 6:22:43 PM] [OBS-Log] Hooked D3D12
+[Info | 6:22:43 PM] [OBS-Log] Hooked D3D9
+[Info | 6:22:43 PM] [OBS-Log] Hooked IDXGISwapChain::Present
+[Info | 6:22:43 PM] [OBS-Log] Hooked IDXGISwapChain::ResizeBuffers
+[Info | 6:22:43 PM] [OBS-Log] Hooked IDXGISwapChain1::Present1
+[Info | 6:22:43 PM] [OBS-Log] Hooked IDXGISwapChain::Release
+[Info | 6:22:43 PM] [OBS-Log] Hooked DXGI
+[Info | 6:22:43 PM] [OBS-Log] Found D3D11 11.0 device on swap chain
+[Info | 6:22:43 PM] [OBS-Log] DXGI_SWAP_CHAIN_DESC:
+    BufferDesc.Width: 1920
+    BufferDesc.Height: 1080
+    BufferDesc.RefreshRate.Numerator: 0
+    BufferDesc.RefreshRate.Denominator: 0
+    BufferDesc.Format: 24
+    BufferDesc.ScanlineOrdering: 0
+    BufferDesc.Scaling: 0
+    SampleDesc.Count: 1
+    SampleDesc.Quality: 0
+    BufferUsage: 48
+    BufferCount: 2
+    Windowed: 0
+    SwapEffect: 4
+    Flags: 2050
+[Info | 6:22:43 PM] [OBS-Log] d3d11 shared texture capture successful
+[Info | 6:22:43 PM] [OBS-Log] ----------------- d3d11 capture freed ----------------
+[Info | 6:22:43 PM] [OBS-Log] DXGI_SWAP_CHAIN_DESC:
+    BufferDesc.Width: 1920
+    BufferDesc.Height: 1080
+    BufferDesc.RefreshRate.Numerator: 0
+    BufferDesc.RefreshRate.Denominator: 0
+    BufferDesc.Format: 24
+    BufferDesc.ScanlineOrdering: 0
+    BufferDesc.Scaling: 0
+    SampleDesc.Count: 1
+    SampleDesc.Quality: 0
+    BufferUsage: 48
+    BufferCount: 2
+    Windowed: 0
+    SwapEffect: 4
+    Flags: 2050
+[Info | 6:22:43 PM] [OBS-Log] d3d11 shared texture capture successful
+[Info | 6:22:43 PM] Valorant_MatchDetector: Successfully parsed shard from session
+[Info | 6:22:43 PM] Free shared texture resources
+[Info | 6:22:43 PM] Shared texture resources freed
+[Info | 6:22:43 PM] Hook data extracted
+[Info | 6:22:43 PM] Looking for adapter with LUID: 73683
+[Info | 6:22:43 PM] Found adapter: NVIDIA GeForce MX350
+[Info | 6:22:43 PM] Valorant_MatchDetector: Successfully got entitlements token
+[Info | 6:22:43 PM] Valorant_MatchDetector: Successfully set up client
+[Info | 6:22:43 PM] IncreaseFrameLatency success
+[Info | 6:22:43 PM] Failed to enable base priority privilege!
+[Info | 6:22:43 PM] SetGPUPriority Result:Success, Priority: 5
+[Info | 6:22:43 PM] mapId 2
+[Info | 6:22:44 PM] [+] Texture Mapped file accessed. MedalCaptureHook_Texture_852002_2
+[Info | 6:22:44 PM] [OBSCaptureState] Shared texture success. Handle: 3221237698 Format: R10G10B10A2_UNorm
+[Info | 6:22:44 PM] [OBSCaptureState] DX Version: 11
+[Info | 6:22:44 PM] Input Resolution: 1920x1080 - AR: eMST_LetterBox
+[Info | 6:22:44 PM] Output Resolution: 1280x-720
+[Debug | 6:22:44 PM] Executing Request: get.hardwareId - 
+[Warning | 6:22:44 PM] No command for get.hardwareId
+[Info | 6:22:44 PM] job.respond e8d3a00b-8572-4ea9-b0cf-f072eaead27b
+[Debug | 6:22:44 PM] PollDesktopJobQueue reply [{"uuid":"e8d3a00b-8572-4ea9-b0cf-f072eaead27b","action":"get.hardwareId"}]
+[Debug | 6:22:44 PM] job.respond "ok"
+[Info | 6:22:44 PM] Frame factory initialized on device Auto, LUID:73683
+[Info | 6:22:44 PM] Output Mode: Clip Output
+[Info | 6:22:44 PM] Valorant_MatchDetector: Successfully got Valorant private data.
+[Info | 6:22:44 PM] Recording mic: True
+[Info | 6:22:44 PM] Setup Mic Audio
+[Info | 6:22:44 PM] Mic device set. Audio name:Microphone (Razer Seiren Mini), Index:1, SampleRate:48000, Channels:1, BitsPerSample:-32, Period:0, Buffer:22
+[Info | 6:22:44 PM] Mic noise suppression set: False
+[Info | 6:22:44 PM] Mic noise gate set: False, Threshold: -100
+[Info | 6:22:44 PM] Setup Loopback Audio
+[Info | 6:22:44 PM] Default device is Headphones (WH-1000XM5)
+[Info | 6:22:44 PM] Audio device set. Audio name:Headphones (WH-1000XM5), Index:0, SampleRate:48000, Channels:2, BitsPerSample:-32, Period:0, Buffer:22
+[Info | 6:22:44 PM] codecName- h264_amf, fcc type- eMFCC_UYVY
+[Info | 6:22:44 PM] Buffer size (s): 90
+[Info | 6:22:45 PM] Cursor image was loaded from the game
+[Info | 6:22:45 PM] InputManager starting...
+[Info | 6:22:45 PM] Check for input devices
+[Info | 6:22:45 PM] Added Mouse Device: Mouse
+[Info | 6:22:45 PM] InputManager started.
+[Info | 6:22:45 PM] MedalWriter started. Bitrate: 10M
+[Info | 6:22:45 PM] InputManager: PollInput started
+[Info | 6:22:45 PM] codecName- h264_amf, fcc type- eMFCC_UYVY
+[Info | 6:22:45 PM] First video data portion from the hook
+[Info | 6:22:45 PM] Free shared texture resources
+[Info | 6:22:45 PM] Shared texture resources freed
+[Info | 6:22:45 PM] Hook data extracted
+[Info | 6:22:45 PM] Looking for adapter with LUID: 73683
+[Info | 6:22:45 PM] Found adapter: NVIDIA GeForce MX350
+[Info | 6:22:45 PM] InputManager: active game switch detected, regenerating trigger inputs
+[Info | 6:22:45 PM] IncreaseFrameLatency success
+[Info | 6:22:45 PM] Saving Push to talk enabled False
+[Info | 6:22:45 PM] Failed to enable base priority privilege!
+[Info | 6:22:45 PM] SetGPUPriority Result:Success, Priority: 5
+[Info | 6:22:45 PM] mapId 2
+[Info | 6:22:45 PM] [+] Texture Mapped file accessed. MedalCaptureHook_Texture_852002_2
+[Info | 6:22:45 PM] [ESM Event] - PushToTalkEnable
+[Info | 6:22:45 PM] [OBSCaptureState] Shared texture success. Handle: 3221237698 Format: R10G10B10A2_UNorm
+[Info | 6:22:45 PM] [OBSCaptureState] DX Version: 11
+[Info | 6:22:45 PM] Audio config- 1,2 - 0 | tracksplitbits - 101 | mix channels - 0+1,0+2
+[Info | 6:22:45 PM] Input Resolution: 1920x1080 - AR: eMST_LetterBox
+[Info | 6:22:45 PM] Push to talk enabled
+[Info | 6:22:45 PM] Output Resolution: 1280x-720
+[Info | 6:22:45 PM] Set sound gain {0},{1},{1} - 3 - 0
+[Info | 6:22:48 PM] 1 logs of- Set sound gain {0},{1},{1} - 3 - 0
+[Info | 6:22:48 PM] Active game GameRecordingSuccessfullyStarted InjectionCapture
+[Info | 6:22:48 PM] Using advanced overlay.
+[Info | 6:22:48 PM] Starting Electron overlay for Valorant
+[Info | 6:22:48 PM] Hook data extracted
+[Info | 6:22:48 PM] Sending electron overlay toggle injected mode: True
+[Info | 6:22:48 PM] SendOverlayToggleInjectedMode reply "ok" after 8.0ms
+[Info | 6:22:48 PM] Average response time: 8.0ms (1 measures)
+[Info | 6:22:48 PM] Sending electron overlay size: 1920x1080
+[Info | 6:22:48 PM] SendOverlaySize reply "ok" after 3.5ms
+[Info | 6:22:48 PM] Average response time: 5.8ms (2 measures)
+[Info | 6:22:48 PM] Starting Medal Performance monitor.
+[Info | 6:22:48 PM] Sending electron overlay size: 1920x1080
+[Info | 6:22:48 PM] Sending electron overlay show: Press F8 at any moment to save
+the last 60 seconds
+[Debug | 6:22:48 PM] game/started reply "ok"
+[Info | 6:22:48 PM] SendOverlaySize reply "ok" after 165.3ms
+[Info | 6:22:48 PM] Average response time: 59.0ms (3 measures)
+[Info | 6:22:48 PM] SendOverlayShow reply "ok" after 162.6ms
+[Info | 6:22:48 PM] Average response time: 84.9ms (4 measures)
+[Debug | 6:22:49 PM] Executing Request: get.hardwareId - 
+[Warning | 6:22:49 PM] No command for get.hardwareId
+[Info | 6:22:49 PM] job.respond 2efa38a1-999f-490c-8418-0b315d60c36d
+[Debug | 6:22:49 PM] Executing Request: set.overlayCurrentInjectedMode - {
+  "enabled": 1
+}
+[Debug | 6:22:49 PM] job.respond "ok"
+[Info | 6:22:49 PM] Saving OverlayCurrentInjectedMode 1
+[Info | 6:22:49 PM] job.respond bdd4b13a-239a-4618-a29e-a40ed0f33da0
+[Debug | 6:22:49 PM] Executing Request: set.overlayCurrentInjectedMode - {
+  "enabled": 1
+}
+[Debug | 6:22:49 PM] job.respond "ok"
+[Info | 6:22:49 PM] Input action detected: clip;length=60
+[Info | 6:22:49 PM] Saving OverlayCurrentInjectedMode 1
+[Info | 6:22:49 PM] [ESM Event] - SaveClip
+[Info | 6:22:49 PM] job.respond 2b8abe85-b11a-4847-948d-8ab90b2ed54e
+[Debug | 6:22:49 PM] PollDesktopJobQueue reply [{"uuid":"2efa38a1-999f-490c-8418-0b315d60c36d","action":"get.hardwareId"},{"uuid":"bdd4b13a-239a-4618-a29e-a40ed0f33da0","body":{"enabled":1},"action":"set.overlayCurrentInjectedMode"},{"uuid":"2b8abe85-b11a-4847-948d-8ab90b2ed54e","body":{"enabled":1},"action":"set.overlayCurrentInjectedMode"}]
+[Info | 6:22:49 PM] Generating clip on cooldown
+[Debug | 6:22:49 PM] job.respond "ok"
+[Warning | 6:22:50 PM] InputManager polling slowly: average of 5.506ms
+[Info | 6:22:50 PM] [Global Keyhook] Pressed=F1 - Trigger clip save - State - OBSCaptureState - CaptureType - HookDXGI
+[Info | 6:22:51 PM] Input action detected: clip;length=60
+[Info | 6:22:51 PM] [ESM Event] - SaveClip
+[Info | 6:22:52 PM] Sending electron overlay size: 1920x1080
+[Info | 6:22:52 PM] Sending electron overlay show: Clip saved! It will be uploaded
+when you exit the game.
+[Info | 6:22:52 PM] SendOverlaySize reply "ok" after 8.5ms
+[Info | 6:22:52 PM] Average response time: 69.6ms (5 measures)
+[Info | 6:22:52 PM] SendOverlayShow reply "ok" after 12.1ms
+[Info | 6:22:52 PM] Average response time: 60.0ms (6 measures)
+[Debug | 6:22:52 PM] clip saved VALORANT   VALORANT-Win64-Shipping UnrealWindow  UUID- 9a596873-7185-4729-a01d-28b1a369da6f
+[Info | 6:22:52 PM] Generating clip: C:\Users\Tyr\Documents\Medal\Clips\Valorant\MedalTVValorant20240505182252.mp4
+[Info | 6:22:52 PM] Buffer duration: 6.27
+[Info | 6:22:52 PM] Input FPS: 30.9148693084717
+[Info | 6:22:52 PM] Target Clip Length (in seconds): 60
+[Info | 6:22:52 PM] [OBS-Log] [INFO] [DXGI] DX11 overlay.
+[Info | 6:22:52 PM] [OBS-Log] [INFO] DX11 context initialized.
+[Info | 6:22:52 PM] [OBS-Log] [INFO] [DX11] Overlay graphics initialized.
+[Info | 6:22:52 PM] Output FPS: 30.1694915254237
+[Info | 6:22:52 PM] Output Video Bitrate (Mbps) : 10.412644
+[Info | 6:22:52 PM] Output Video Length (in seconds): 5.9
+[Info | 6:22:52 PM] [Global Keyhook] Pressed=F1 - Trigger clip save - State - OBSCaptureState - CaptureType - HookDXGI
+[Info | 6:22:52 PM] Input action detected: clip;length=60
+[Info | 6:22:52 PM] [ESM Event] - SaveClip
+[Info | 6:22:52 PM] Generating clip on cooldown
+[Debug | 6:22:53 PM] clip 1714904572 create reply "9a596873-7185-4729-a01d-28b1a369da6f"
+[Info | 6:22:53 PM] [Global Keyhook] Pressed=F1 - Trigger clip save - State - OBSCaptureState - CaptureType - HookDXGI
+[Debug | 6:22:54 PM] Executing Request: get.hardwareId - 
+[Warning | 6:22:54 PM] No command for get.hardwareId
+[Info | 6:22:54 PM] job.respond 37dcb6be-c79a-488c-9520-a90ce20cb38c
+[Debug | 6:22:54 PM] PollDesktopJobQueue reply [{"uuid":"37dcb6be-c79a-488c-9520-a90ce20cb38c","action":"get.hardwareId"}]
+[Debug | 6:22:54 PM] job.respond "ok"
+[Info | 6:22:54 PM] Hook data extracted
+[Info | 6:22:54 PM] Game has gone into fullscreen exclusive mode. Trying to use the injection overlay...
+[Info | 6:22:54 PM] Sending electron overlay size: 1920x1080
+[Info | 6:22:54 PM] Sending electron overlay show: Trying the overlay injection...
+[Info | 6:22:54 PM] Sending electron overlay toggle injected mode: True
+[Info | 6:22:54 PM] [ESM Event] - GameWindowDefocus
+[Info | 6:22:54 PM] Game is not in focus
+[Info | 6:22:55 PM] 1 logs of- Game is not in focus
+[Info | 6:22:55 PM] SendOverlaySize reply "ok" after 588.9ms
+[Info | 6:22:55 PM] Average response time: 135.6ms (7 measures)
+[Info | 6:22:55 PM] SendOverlayShow reply "ok" after 590.9ms
+[Info | 6:22:55 PM] Average response time: 192.5ms (8 measures)
+[Info | 6:22:55 PM] SendOverlayToggleInjectedMode reply "ok" after 834.8ms
+[Info | 6:22:55 PM] Average response time: 263.9ms (9 measures)
+[Warning | 6:22:55 PM] InputManager polling slowly: average of 3.241ms
+[Info | 6:22:56 PM] [ESM Event] - WindowCaptureSetMonitor
+[Info | 6:22:56 PM] [ESM Event] - WindowCaptureMoved
+[Info | 6:22:56 PM] [ESM Event] - GameWindowDefocus
+[Info | 6:22:59 PM] 1 logs of- [ESM Event] - GameWindowDefocus
+[Debug | 6:22:59 PM] Executing Request: get.hardwareId - 
+[Warning | 6:22:59 PM] No command for get.hardwareId
+[Info | 6:22:59 PM] job.respond 6ae84a8b-2db1-401f-911d-76e2a7b9b4f8
+[Debug | 6:22:59 PM] PollDesktopJobQueue reply [{"uuid":"6ae84a8b-2db1-401f-911d-76e2a7b9b4f8","action":"get.hardwareId"}]
+[Debug | 6:22:59 PM] job.respond "ok"
+[Info | 6:22:59 PM] [ESM Event] - GameWindowDefocus
+[Info | 6:23:01 PM] 2 logs of- [ESM Event] - GameWindowDefocus
+[Debug | 6:23:01 PM] Executing Request: set.sdkmode - {
+  "enabled": false
+}
+[Warning | 6:23:01 PM] No command for set.sdkmode
+[Info | 6:23:01 PM] job.respond 5f1a6d61-e968-4cfd-84e4-18136dd7272c
+[Debug | 6:23:01 PM] Executing Request: shutdown - {}
+[Debug | 6:23:01 PM] job.respond "ok"
+[Info | 6:23:01 PM] Recorder will shutdown in 5 seconds
+[Info | 6:23:01 PM] [ESM Event] - Shutdown
+[Info | 6:23:01 PM] InputManager stopping...
+[Info | 6:23:01 PM] InputManager: PollInput stopped
+[Info | 6:23:01 PM] InputManager stopped.
+[Info | 6:23:01 PM] Hook data extracted
+[Info | 6:23:02 PM] [ESM Event] - GameWindowDefocus
+[Info | 6:23:03 PM] 1 logs of- [ESM Event] - GameWindowDefocus
+[Info | 6:23:03 PM] [ESM Event] - GameWindowFocus
+[Info | 6:23:03 PM] Hook data extracted
+[Info | 6:23:03 PM] [ESM Event] - GameWindowDefocus
+[Info | 6:23:03 PM] Game is not in focus
+[Info | 6:23:03 PM] Window is moving, fallback canceled
+[Info | 6:23:03 PM] Game is not in focus
+[Info | 6:23:04 PM] 1 logs of- Game is not in focus
+[Debug | 6:23:04 PM] Executing Request: get.hardwareId - 
+[Warning | 6:23:04 PM] No command for get.hardwareId
+[Info | 6:23:04 PM] job.respond 3e3affb8-4ef7-43f6-9016-ba12fb06dcf3
+[Debug | 6:23:04 PM] PollDesktopJobQueue reply [{"uuid":"3e3affb8-4ef7-43f6-9016-ba12fb06dcf3","action":"get.hardwareId"}]
+[Debug | 6:23:04 PM] job.respond "ok"
+[Info | 6:23:04 PM] [ESM Event] - WindowCaptureSetMonitor
+[Info | 6:23:04 PM] [ESM Event] - WindowCaptureMoved
+[Info | 6:23:04 PM] [ESM Event] - GameWindowFocus
