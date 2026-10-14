@@ -1,7 +1,0 @@
-[ Log | 7:14:25 AM ] [Medal Launcher Log Init] 1.0.0.1 - 5/2/2024 7:14:25 AM
-
-[ Log | 7:14:25 AM ] Launching recorder C:\Users\Tyr\AppData\Local\Medal\recorder-3.829.0\MedalEncoder.exe
-[ Log | 7:14:25 AM ] No other MedalEncoder instances running
-[ Log | 7:14:25 AM ] Launched recorder C:\Users\Tyr\AppData\Local\Medal\recorder-3.829.0\MedalEncoder.exe
-[ Log | 7:14:33 AM ] Init OverlayInterface
-[ Log | 7:14:55 AM ] Starting suicide lock interval
